@@ -15,8 +15,8 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
 
-# Copyright (C) 2010 Yaacov Zamir (2010) <kzamir@walla.co.il>
-# Author: Yaacov Zamir (2010) <kzamir@walla.co.il>
+# Copyright (C) Yaacov Zamir (2010, 2015) <kobi.zamir@gmail.com>
+# Author: Yaacov Zamir (2010, 2015) <kobi.zamir@gmail.com>
 
 import re
 from xml.sax.saxutils import escape
